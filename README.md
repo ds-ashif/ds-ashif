@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science | AI | Space...
 - 🌱 I’m currently learning Python | HTML | CSS | Javascript | OOPs...
 - 💞️ I’m looking to collaborate on multiple projects.
-- 📫 You can reach me through ashif_ahamad@outlook.com
+- 📫 For Contact: ashif_ahamad@outlook.com
 
 <!---
 ds-ashif/ds-ashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
