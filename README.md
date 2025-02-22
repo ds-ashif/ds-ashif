@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ashif.
-- 👀 I’m interested in Data Science | AI | Space...
-- 🌱 I’m currently learning Python | HTML | CSS | Javascript | OOPs...
+- 👋 Hi, I’m Ashif Ahamad.
+- 👀 A pre-final year B.Tech CSE stuent.
+- 🌱 Efficient in problem solving.
 - 💞️ I’m looking to collaborate on multiple projects.
-- 📫 For Contact: ashif_ahamad@outlook.com
+- 📫 For Contact: ahamad.ashif77@gmail.com
 
 <!---
 ds-ashif/ds-ashif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
