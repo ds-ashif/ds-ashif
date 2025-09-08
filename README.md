@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ashif Ahamad.
-- 👀 A pre-final year B.Tech CSE stuent.
+- 👀 A final year B.Tech CSE stuent.
 - 🌱 Efficient in problem solving.
 - 💞️ I’m looking to collaborate on multiple projects.
+- ✨ Let's build something impactful.
 - 📫 For Contact: ahamad.ashif77@gmail.com
 
 <!---
